@@ -1,0 +1,39 @@
+body {
+  color: #c0d2fb;
+  font-family: sans-serif;
+  background: #001224;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  margin: auto; }
+
+.user-options {
+  max-width: 600px;
+  margin: auto; }
+
+.grid-size {
+  width: 50px; }
+
+.canvas {
+  display: grid;
+  height: 585px;
+  width: 585px;
+  margin: auto; }
+
+.button, .input, .colorBox {
+  background: #0c3615;
+  color: #95b3f9;
+  border-radius: 6px;
+  border: 3px outset #085918;
+  margin: 3px; }
+
+.colorBox {
+  width: 60px; }
+
+.cell {
+  background: #310210; }
+
+.colored {
+  background: #5e8c08; }
+
+/*# sourceMappingURL=main.css.map */
